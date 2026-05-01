@@ -14,7 +14,7 @@ This project analyzes Netflix titles data to uncover trends, content distributio
 
 ---
 
-## 📂 Dataset Description
+## 🧾 Dataset Description
 
 The dataset used in this project contains **7,787 Netflix titles** with **12 columns**, including both Movies and TV Shows. It provides information such as title name, content type, country, release year, rating, duration, genre, and date added to Netflix.
 
