@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies Analysis Project
+# 🎬 Netflix Titles Analysis Project
 
 ## 📌 Overview
 This project analyzes Netflix titles data to uncover trends, content distribution, release patterns, and key business insights using Python.
